@@ -1,7 +1,7 @@
 
 # Portfólio | Ana Larissa da Silva Dias
 
-👋 Olá! Meu nome é **Ana Larissa**, sou engenheira da computação com mestrado e doutorado (em andamento) na área de Inteligência Artificial, com foco em **Processamento de Fala**, **Deep Learning** e **NLP**.
+👋 Olá! Meu nome é **Ana Larissa Dias**, sou engenheira da computação nortista com mestrado na área de Inteligência Artificial, com foco em **Processamento de Fala**, **Deep Learning** e **NLP**.
 
 Nos últimos anos, desenvolvi soluções envolvendo:
 - 🧠 Modelos baseados em Transformers (LLMs)
@@ -29,7 +29,7 @@ Este repositório é uma coleção dos meus projetos mais relevantes como Engenh
 
 ```
 portfolio-analarissa/
-├── projetos/              ← Projetos aplicados e com deploy (Nextar)
+├── projetos/              ← Projetos aplicados e com deploy
 │   ├── regressao-flask/
 │   ├── classificacao-churn/
 │   └── perguntas-respostas-llm/
